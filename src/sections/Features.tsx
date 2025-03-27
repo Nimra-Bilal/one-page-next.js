@@ -7,7 +7,6 @@ import avatar4 from "@/assets/images/avatar-owen-garcia.jpg"
 import Image from "next/image";
 import Avatar from "@/components/Avatar";
 import Key from "@/components/Key";
-import gifVideo from "../assets/gif-incredible.mp4";
 const features = [
     "Asset Library",
     "Code Preview",
